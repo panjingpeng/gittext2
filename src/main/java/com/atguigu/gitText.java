@@ -11,5 +11,6 @@ public class gitText {
         System.out.println("vie");
         System.out.println("合并后");
         System.out.println("点点点");
+        System.out.println("123");
     }
 }
