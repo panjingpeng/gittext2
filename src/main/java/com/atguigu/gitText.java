@@ -9,5 +9,6 @@ public class gitText {
         System.out.println("第四次");
         System.out.println("vie2");
         System.out.println("vie");
+        System.out.println("合并后");
     }
 }
